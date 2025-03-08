@@ -39,16 +39,6 @@ Tailwind CSS: A utility-first CSS framework for styling.
 
 React Icons: For adding icons to the UI.
 
-Axios: For making HTTP requests to the backend.
-
-Backend:
-
-Node.js: A JavaScript runtime for building the backend.
-
-Express: A web framework for Node.js.
-
-JWT (JSON Web Tokens): For user authentication and authorization.
-
 Other Tools:
 
 Vite: A fast build tool for modern web development.
