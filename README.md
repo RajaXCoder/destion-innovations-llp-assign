@@ -58,7 +58,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/e-commerce-portal.git
+https://github.com/RajaXCoder/destion-innovations-llp-assign.git
 Navigate to the project directory:
 
 bash
@@ -78,7 +78,7 @@ npm run dev
 Open your browser and visit:
 
 Copy
-http://localhost:3000
+https://raja-destion-innov-llp-ui.netlify.app/
 4. Using the Application
 Login:
 
@@ -86,9 +86,9 @@ Visit the login page (/login) and enter your credentials.
 
 If you don't have an account, you can simulate a login by using the following credentials:
 
-Username: user
+Username: Raja
 
-Password: password
+Password: Raja@2004
 
 Manage Invoices:
 
@@ -141,8 +141,8 @@ Vite for the fast and modern build tool.
 Contact
 If you have any questions or feedback, feel free to reach out:
 
-Email: your-email@example.com
+Email: rajasekar.webdev@gmail.com
 
-GitHub: your-username
+GitHub: RajaXCoder
 
 Thank you for using the E-Commerce Portal! 🚀
